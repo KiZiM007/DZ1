@@ -1,0 +1,15 @@
+C:\Users\kim_k\Desktop\DZ\Number10\bin\Debug\net6.0\Number10.exe
+C:\Users\kim_k\Desktop\DZ\Number10\bin\Debug\net6.0\Number10.deps.json
+C:\Users\kim_k\Desktop\DZ\Number10\bin\Debug\net6.0\Number10.runtimeconfig.json
+C:\Users\kim_k\Desktop\DZ\Number10\bin\Debug\net6.0\Number10.dll
+C:\Users\kim_k\Desktop\DZ\Number10\bin\Debug\net6.0\Number10.pdb
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.csproj.AssemblyReference.cache
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.AssemblyInfoInputs.cache
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.AssemblyInfo.cs
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.csproj.CoreCompileInputs.cache
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.dll
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\refint\Number10.dll
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.pdb
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\Number10.genruntimeconfig.cache
+C:\Users\kim_k\Desktop\DZ\Number10\obj\Debug\net6.0\ref\Number10.dll
